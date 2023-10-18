@@ -1,0 +1,44 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "PANTALON",
+    "inventarioProducto": 7,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CAMISETA",
+    "inventarioProducto": 12,
+    "precioProducto": 55000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "RODILLERAS",
+    "inventarioProducto": 3,
+    "precioProducto": 5000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "CARGOS",
+    "inventarioProducto": 7,
+    "precioProducto": 60000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "MEDIAS",
+    "inventarioProducto": 7,
+    "precioProducto": 3000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "ZAPATOS",
+    "inventarioProducto": 9,
+    "precioProducto": 465000
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "CELULAR",
+    "inventarioProducto": 12,
+    "precioProducto": 555000
+  }
+]
